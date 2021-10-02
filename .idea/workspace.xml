@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="666da423-4a5b-4ed1-af3d-0d2a9638ee1a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/web-server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/me.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/partials/footer.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/partials/header.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/views/404.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/views/about.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/views/help.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/views/index.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/forecats.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/geocode.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1wGDsKHVaM2wOqg76QKyvSYwOPK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates/partials" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates/partials" />
+      <recent name="$PROJECT_DIR$/public/css" />
+      <recent name="$PROJECT_DIR$/templates/views" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/views" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates/views" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="666da423-4a5b-4ed1-af3d-0d2a9638ee1a" name="Default Changelist" comment="" />
+      <created>1628076236894</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628076236894</updated>
+      <workItem from="1628076238130" duration="531000" />
+      <workItem from="1628928734198" duration="2570000" />
+      <workItem from="1629036687565" duration="13000" />
+      <workItem from="1629037300689" duration="1233000" />
+      <workItem from="1629093294800" duration="4444000" />
+      <workItem from="1630648885188" duration="1872000" />
+      <workItem from="1630930831079" duration="6640000" />
+      <workItem from="1631461225244" duration="3944000" />
+      <workItem from="1632580500155" duration="17000" />
+      <workItem from="1632580534963" duration="4372000" />
+      <workItem from="1632989672385" duration="12000" />
+      <workItem from="1633180889826" duration="272000" />
+      <workItem from="1633202739522" duration="635000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
