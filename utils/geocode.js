@@ -14,7 +14,7 @@ const geocode = (address, callback) => {
             callback(undefined, {
                 latitude: body.coord.lat,
                 longitude: body.coord.lon,
-                location: body.name
+                location: body.name + " - " + body.sys.country
             })
             // callback(undefined, response.body.weather[0].description + ". It is currently => " + response.body.main.temp + " degrees out (" + response.body.name + ' - ' + response.body.sys.country + ")")
         }
